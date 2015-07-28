@@ -1,2 +1,2 @@
 # video-tutorial
-This is a repository for a video tutorial
+This is a repository for a video tutorial and I just updated it.
